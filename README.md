@@ -1,5 +1,4 @@
-# Zwischentest-3-Leeroy-der-Listenrechner-BIF-DUA-1-WS2022-PROZD-DE_1-Volle-Punktezahl
-
+# Zwischentest-3-Leeroy-der-Listenrechner-BIF-DUA-1-WS2022-PROZD-DE_1
 
 Leeroy der Listenrechner Programmieren Sie einen einfachen Rechner, der zuerst einen Reihe von Operationen, Klammern und Werte einliest, diese in einer verketteten Liste speichert und sie dann auswertet!
 
